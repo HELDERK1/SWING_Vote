@@ -46,18 +46,22 @@ public class Principal extends javax.swing.JFrame {
         lblNotaAtual.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         lblNotaAtual.setText("0");
 
+        txtVoto4.setEditable(false);
         txtVoto4.setText("0");
 
         jLabel9.setText("Quantidade de Votos 5:");
 
         jLabel5.setText("Quantidade de Votos 1:");
 
+        txtVoto5.setEditable(false);
         txtVoto5.setText("0");
 
+        txtVoto1.setEditable(false);
         txtVoto1.setText("0");
 
         jLabel6.setText("Quantidade de Votos 2:");
 
+        txtVoto2.setEditable(false);
         txtVoto2.setText("0");
 
         jLabel7.setText("Quantidade de Votos 3:");
@@ -101,6 +105,7 @@ public class Principal extends javax.swing.JFrame {
 
         jLabel2.setText("Excelente");
 
+        txtVoto3.setEditable(false);
         txtVoto3.setText("0");
 
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
